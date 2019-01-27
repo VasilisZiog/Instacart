@@ -1,4 +1,4 @@
-# Instacart 2017
+# [Instacart 2017](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
 ## TASK: Given a user, a product, and the user's prior purchase history, predict whether or not the given product will be reordered in the user's next order
 
